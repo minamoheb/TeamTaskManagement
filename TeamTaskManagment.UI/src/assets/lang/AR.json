@@ -1,0 +1,16 @@
+{
+  "MenuTittleMasterFile": "Master File",
+  "HdrTaskManagement": "Task Management",
+  "Code": "Code",
+  "Title": "Title",
+  "Priority": "Priority",
+  "Status": "Status",
+  "TaskManagement": "Task Management",
+  "DueDate": "Due Date",
+  "MSGSuccess": "Operation Completed Successfully",
+  "MSGFail": "MSG-Fail:",
+  "RequiredValidate": " Has Required",
+  "MSGConfirmDelete": "MSG-Fail: Must Be Confirm Delete Data",
+  "AddNew": "Add New",
+  "Search": "Search"
+}

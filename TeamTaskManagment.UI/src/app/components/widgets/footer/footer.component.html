@@ -1,0 +1,27 @@
+<footer class="footer">
+
+  <div class="copyright">
+  </div>
+  <button class="chat-toggle-btn" (click)="toggleChat()">
+    💬
+    <span *ngIf="hasNewMessage" class="notification-dot"></span>
+  </button>
+
+  <div class="chat-popup" *ngIf="isChatOpen">
+    <div class="chat-header">
+      <span>Chat</span>
+      <button class="close-btn" (click)="toggleChat()">✖</button>
+    </div>
+    <div class="chat-body">
+      <div *ngFor="let msg of chatService.messages"
+        [ngClass]="{'admin-message': msg.user?.user=== 'Admin', 'user-message': msg.user?.user !== 'Admin'}"
+        class="chat-bubble">
+        <strong>{{ msg.user?.user }}:</strong> {{ msg.user.message }}
+      </div>
+    </div>
+    <div class="chat-footer">
+      <input [(ngModel)]="message" placeholder="Type a message..." />
+      <button (click)="send()">Send</button>
+    </div>
+  </div>
+</footer>

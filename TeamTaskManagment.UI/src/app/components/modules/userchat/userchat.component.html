@@ -1,0 +1,24 @@
+<div class="content-wrapper">
+    <section class="content-header">
+        <h1>{{ 'UserChat' | translate }}</h1>
+    </section>
+
+    <section class="content">
+        <div class="row justify-content-center">
+            <div class="chat-container">
+                <h3 class="chat-title">Chat Room</h3>
+                <div class="chat-messages">
+                    <div *ngFor="let msg of chatService.messages"
+                        [ngClass]="{'admin-message': msg.user?.user=== 'Admin', 'user-message': msg.user?.user !== 'Admin'}"
+                        class="chat-bubble">
+                        <strong>{{ msg.user?.user }}:</strong> {{ msg.user.message }}
+                    </div>
+                </div>
+                <div class="chat-input">
+                    <input [(ngModel)]="message" placeholder="Type message..." class="chat-text" />
+                    <button (click)="send()" class="chat-send-btn">Send</button>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

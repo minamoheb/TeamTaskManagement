@@ -1,0 +1,17 @@
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Services.deps.json
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Services.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Services.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.csproj.AssemblyReference.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.AssemblyInfoInputs.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.AssemblyInfo.cs
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.csproj.CoreCompileInputs.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\refint\NewWayLogistic.Services.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLogistic.Services.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\ref\NewWayLogistic.Services.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Core.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Infrastructure.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Infrastructure.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\bin\Debug\net8.0\NewWayLogistic.Core.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\NewWayLogistic\NewWayLogistic.API\NewWayLogistic.Services\obj\Debug\net8.0\NewWayLo.DB0E9D7A.Up2Date

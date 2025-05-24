@@ -1,0 +1,38 @@
+<aside class="main-sidebar">
+  <section class="sidebar">
+    <div class="user-panel">
+      <div class="labeltxt image">
+        <img src="assets/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
+      </div>
+      <div class="labeltxt info">
+        <p>{{childUserName}}</p>
+
+        <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+      </div>
+    </div>
+    <ul class="sidebar-menu" data-widget="tree">
+      <li class="header"> {{'MAINNAVIGATION'|translate}}</li>
+
+
+      <li class="treeview" *ngFor="let item of menuData;let j = index;" class="treeview" id="treeview">
+        <a [routerLink]="item.routerlink?[item.routerlink]:[]">
+          <i class={{item.class}}></i>
+          <span style="font-weight: bold;padding: 5px;">{{item.name|translate}}</span>
+
+        </a>
+        <ul class="treeview-menu" id="ultreeview" style="display:block">
+          <li *ngFor="let smn of item.submenu" class="treeview">
+
+
+            <a style="font-size: 15px;font-weight:bold;" [routerLink]="smn.routerlink?[smn.routerlink]:[]">
+              <i class="fa fa-cube"></i>{{smn.name|translate}}
+            </a>
+
+          </li>
+
+        </ul>
+      </li>
+
+    </ul>
+  </section>
+</aside>

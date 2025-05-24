@@ -1,0 +1,20 @@
+{
+  "menus": [
+    {
+      "name": "MenuTittleMasterFile",
+      "class": "fa fa-circle-o",
+      "submenu": [
+        {
+          "name": "Tasks",
+          "routerlink": "/tasks/taskmangament",
+          "class": "fa fa-cube"
+        },
+        {
+          "name": "UserChat",
+          "routerlink": "/data/userchat",
+          "class": "fa fa-cube"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9eN4kLjF2Pw2zIXCDx7nwpWKiMw9Nj5oeV5jEN9uTVM=",
+  "Source": "TeamTaskManagement.API",
+  "BasePath": "_content/TeamTaskManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TeamTaskManagement.API.props" />
+</Project>

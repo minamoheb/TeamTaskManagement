@@ -1,0 +1,19 @@
+{
+  "Serilog": {
+    "Using": [ "Serilog.Sinks.MSSqlServer" ],
+    "WriteTo": [
+      {
+        "Name": "MSSqlServer",
+        "Args": {
+          "connectionString": "Server=.;Database=CustomCTS;MultipleActiveResultSets=true;Integrated Security=True;",
+          "sinkOptionsSection": {
+            "tableName": "Logs",
+            "schemaName": "dbo",
+            "autoCreateSqlTable": true
+          },
+          "restrictedToMinimumLevel": "Information"
+        }
+      }
+    ]
+  }
+}

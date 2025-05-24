@@ -1,0 +1,17 @@
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Infrastructure.deps.json
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Infrastructure.runtimeconfig.json
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Infrastructure.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Infrastructure.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Core.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\bin\Debug\net8.0\TeamTaskManagement.Core.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTask.D7A7B04B.Up2Date
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\refint\TeamTaskManagement.Infrastructure.dll
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.pdb
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\TeamTaskManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\MinaMOHEB\Desktop\old C\Templete Project\TeamTaskManagement\TeamTaskManagement.API\TeamTaskManagement..Infrastructure\obj\Debug\net8.0\ref\TeamTaskManagement.Infrastructure.dll
