@@ -119,7 +119,7 @@ namespace TeamTaskManagement.API.Controllers
 
         [HttpGet]
         [Route("[action]")]
-        public async Task<ActionResult<IEnumerable<TaskModel>>> FilterData([FromQuery] string name, int status = 0)
+        public async Task<ActionResult<IEnumerable<TaskModel>>> FilterData([FromQuery] string? name, int? status = 0)
         {
             try
             {

@@ -56,15 +56,13 @@ namespace TeamTaskManagement.API
 
 
 
-            //    var Logger = new LoggerConfiguration()
-            //.MinimumLevel.Information()
-            //.WriteTo.MSSqlServer(
-            //  connectionString: connectionstring,
-            //  tableName: "Logs",
-            //  autoCreateSqlTable: true)
-            //.CreateLogger();
-
-            //services.AddSingleton<QFIU.External.Services.ILogger>(loggerOptions => new LogService(Logger));
+            var Logger = new LoggerConfiguration()
+        .MinimumLevel.Information()
+        .WriteTo.MSSqlServer(
+          connectionString: connectionstring,
+          tableName: "Logs",
+          autoCreateSqlTable: true)
+        .CreateLogger();
 
             services.AddLogging(loggingBuilder =>
             {

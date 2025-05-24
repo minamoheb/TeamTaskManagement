@@ -39,7 +39,6 @@ export class FooterComponent implements OnInit {
   // }
   send(): void {
     if (this.message.trim()) {
-      debugger;
       const chatMsg: ChatMessage = {
         user: this.user,
         message: this.message,
