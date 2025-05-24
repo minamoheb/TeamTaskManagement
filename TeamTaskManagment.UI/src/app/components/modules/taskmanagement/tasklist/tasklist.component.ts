@@ -13,7 +13,6 @@ import { GlobalFunctionsService } from 'src/app/services/global/global-functions
 import { ConfirmDialogType } from 'src/app/models/global';
 import { TaskItem } from 'src/app/Models/models.model';
 import { ConfirmationDialogComponent } from 'src/app/components/widgets/confirmation-dialog/confirmation-dialog.component';
-import { ToastrService } from 'ngx-toastr';
 import { DatePipe } from '@angular/common';
 @Component({
   selector: 'app-tasklist',
@@ -51,7 +50,6 @@ export class TasklistComponent implements OnInit, OnDestroy, AfterViewInit {
     public translate: TranslateService,
     public gfs: GlobalFunctionsService,
     public ds: DataService,
-    private toastr: ToastrService,
     private dt: DatePipe,
     @Inject(DOCUMENT) private document: Document
   ) {
@@ -87,7 +85,7 @@ export class TasklistComponent implements OnInit, OnDestroy, AfterViewInit {
           description: data.description,
           priorityId: data.priorityId,
           statusId: data.statusId,
-          dueDate: this.dt.transform(data.dueDate, "dd/MM/yyyy"),
+          dueDate: this.dt.transform(data.dueDate, "yyyy-MM-dd"),
           assignedTo: data.assignedTo
         });
       }
@@ -250,7 +248,7 @@ export class TasklistComponent implements OnInit, OnDestroy, AfterViewInit {
       priorityName: [''],
       statusId: ['', Validators.required],
       statusName: [''],
-      dueDate: [''],
+      dueDate: ['', Validators.required],
       assignedTo: ['']
     });
 

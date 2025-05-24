@@ -228,7 +228,7 @@
                                     <div class="col-md-6">
                                         <label class="padding"
                                             style=" margin-left: 5px; color:#000;padding-top:10px; ">{{'DueDate'|translate}}</label>
-
+                                        <font style="color: red;">*</font>
                                         <input class="form-control" formControlName="dueDate" placeholder="dd/MM/yyyy"
                                             name="dp" min="{{duedate | date:'yyyy-MM-dd'}}" type="date">
                                         <div *ngIf="submitted && f.dueDate.errors" class="alert alert-danger mt-3 mb-0"
