@@ -14,6 +14,7 @@ namespace TeamTaskManagement.Services.Helper.Configuration
             services.AddScoped<ILookupItemsService, LookupItemsServices>();
             services.AddTransient<IValidator<TaskModel>, TaskItemValidator>();
             services.AddScoped<ITaskService, TaskService>();
+            services.AddScoped(typeof(IGenericeBaseService<,>), typeof(GenericeBaseService<,>));
             services.AddSingleton<IChatService, ChatServices>();
         }
 
